@@ -1,0 +1,30 @@
+/*This code was simply copy and pasted from the file he gave. He provides it for you to start with*/
+
+body {
+	font: 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+    /*This line below is how you ge the default background color. The syntax says, 'to the right, go from red to yellow'*/
+	background: linear-gradient(to right, #00FF00, #FF0000); /* Standard syntax */
+}
+/*This code is simple - just formating and aligning*/
+h1 {
+    font: 600 3.5em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+}
+
+h3 {
+	font: 900 1em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+
+}
